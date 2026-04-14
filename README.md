@@ -13,4 +13,4 @@ Floortec Website is a WordPress project for the company Floortec. This website i
 ## Developer
 This project is developed by Sheharyar Siraj.
 
-For more information, please visit the [Floortec Website GitHub repository](https://github.com/username/floortec-website).
+For more information, please visit the [Sheharyar Siraj](https://sheharyarsiraj.com/).
